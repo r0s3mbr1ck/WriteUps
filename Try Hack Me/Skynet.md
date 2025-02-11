@@ -21,7 +21,7 @@ Realizamos então a enumeração do serviço SMB e descobrimos algumas coisas in
 ```Kali
 enum4linux -a 10.10.255.32
 ```
-![[Pasted image 20250211172131.png]]
+![Descrição da Imagem](https://github.com/r0s3mbr1ck/WriteUps/blob/main/Images/Pasted%20image%2020250211172131.png)
 Conseguimos conectar no compartilhamento anonymous e identificamos um arquivo de log, que parece ser uma wordlist
 ```Kali
 smbclient //10.10.255.32/anonymous -N
