@@ -28,8 +28,6 @@ smbclient //10.10.255.32/anonymous -N
 ```
 ![Descrição da Imagem](https://github.com/r0s3mbr1ck/WriteUps/blob/main/Images/Pasted%20image%2020250211172249.png)
 ![Descrição da Imagem](https://github.com/r0s3mbr1ck/WriteUps/blob/main/Images/Pasted%20image%2020250211132254.png)
-![[Pasted image 20250211172249.png]]
-![[Pasted image 20250211132254.png]]
 Realizamos a enumeração do serviço WEB com o **gobuster** e identificamos um serviço de email
 
 ```Kali
