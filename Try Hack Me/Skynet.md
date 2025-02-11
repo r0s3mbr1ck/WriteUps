@@ -88,6 +88,7 @@ E assim, conseguimos acesso ao alvo pelo usuário www-data.
 ![Descrição da Imagem](https://github.com/r0s3mbr1ck/WriteUps/blob/main/Images/Pasted%20image%2020250211124851.png)
 
 Capturamos a flag do user
+
 ![Descrição da Imagem](https://github.com/r0s3mbr1ck/WriteUps/blob/main/Images/Pasted%20image%2020250211131725.png)
 
 **user:** 7ce5c2109a40f958099283600a9ae807
