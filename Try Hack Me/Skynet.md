@@ -51,7 +51,8 @@ hydra -l milesdyson -P /home/rosembrick/log1.txt 10.10.255.32 http-post-form "/s
 Após a tentativa, descobrimos a credencial e assim obtivemos acesso ao serviço de email
 ![Descrição da Imagem](https://github.com/r0s3mbr1ck/WriteUps/blob/main/Images/Pasted%20image%2020250211124948.png)
 
-login: milesdyson   password: cyborg007haloterminator
+**login: milesdyson   password: cyborg007haloterminator**
+
 Numa das primeiras mensagens, há uma senha do serviço SMB possivelmente
 ![Descrição da Imagem](https://github.com/r0s3mbr1ck/WriteUps/blob/main/Images/Pasted%20image%2020250211125214.png)
 
