@@ -64,7 +64,7 @@ Conseguimos acesso ao compartilhamento do usuário milesdyson e obtemos acesso a
 
 Ao acessarmos o diretório encontramos esta página e assim, tentamos mais uma vez enumerar com o **gobuster**
 
-![Descrição da Imagem](https://github.com/r0s3mbr1ck/WriteUps/blob/main/Images/Pasted%20image%2020250131125822.png)
+![Descrição da Imagem](https://github.com/r0s3mbr1ck/WriteUps/blob/main/Images/Pasted%20image%2020250211125822.png)
 
 Com o comando abaixo, identificamos uma página de login
 ```Kali
