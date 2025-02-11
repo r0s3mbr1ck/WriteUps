@@ -123,6 +123,7 @@ Como o arquivo inicial `/home/milesdyson/backups/backup.sh`executa o binário **
 ![Descrição da Imagem](https://github.com/r0s3mbr1ck/WriteUps/blob/main/Images/Pasted%20image%2020250211131601.png)
 
 Já com acesso ao root, capturamos a flag de root
+
 ![Descrição da Imagem](https://github.com/r0s3mbr1ck/WriteUps/blob/main/Images/Pasted%20image%2020250211131643.png)
 
 
