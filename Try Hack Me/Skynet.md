@@ -4,7 +4,7 @@ Com o comando
 sudo nmap -A -Pn -T5 -v 10.10.76.34
 ```
 iniciamos o escaneamento mais abrangente, sem realizar o PING, nas 1000 portas comum, de forma agressiva
-![[Pasted image 20250131173426.png]]
+![Descrição da Imagem](Images/Pasted image 20250131173426.png)
 ## Informações Levantadas
 **Portas Abertas**: 22, rodando um serviço SSH OpenSSH 7.2p2 Ubuntu 4ubuntu2.7
 			80, rodando um serviço WEB Apache httpd 2.4.18
