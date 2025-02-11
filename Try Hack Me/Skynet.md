@@ -57,12 +57,13 @@ Numa das primeiras mensagens, há uma senha do serviço SMB possivelmente
 ![Descrição da Imagem](https://github.com/r0s3mbr1ck/WriteUps/blob/main/Images/Pasted%20image%2020250211125214.png)
 
 
-Conseguimos acesso ao compartilhamento do usuário milesdyson e obtemos acesso a um arquivo importante, chamado importan.txt com suposto diretório
+Conseguimos acesso ao compartilhamento do usuário milesdyson e obtemos acesso a um arquivo importante, chamado important.txt com suposto diretório
 ![Descrição da Imagem](https://github.com/r0s3mbr1ck/WriteUps/blob/main/Images/Pasted%20image%2020250211125717.png)
 
 ![Descrição da Imagem](https://github.com/r0s3mbr1ck/WriteUps/blob/main/Images/Pasted%20image%2020250211125803.png)
 
 Ao acessarmos o diretório encontramos esta página e assim, tentamos mais uma vez enumerar com o **gobuster**
+
 ![Descrição da Imagem](https://github.com/r0s3mbr1ck/WriteUps/blob/main/Images/Pasted%20image%202025021125822.png)
 
 Com o comando abaixo, identificamos uma página de login
