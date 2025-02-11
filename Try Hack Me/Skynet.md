@@ -15,8 +15,7 @@ iniciamos o escaneamento mais abrangente, sem realizar o PING, nas 1000 portas c
 **SO**: Ubuntu 4.4
 # Enumeração
 Ao acessar o serviço WEB encontramos uma página mas sem formas de exploração aparente
-
-![Descrição da Imagem](https://github.com/r0s3mbr1ck/WriteUps/blob/main/Images/Pasted%20image%20250211172518.png)
+![Descrição da Imagem](https://github.com/r0s3mbr1ck/WriteUps/blob/main/Images/Pasted%20image%2020250211172518.png)
 
 Realizamos então a enumeração do serviço SMB e descobrimos algumas coisas interessantes
 ```Kali
